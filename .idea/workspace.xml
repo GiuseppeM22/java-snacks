@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e584ca8-354d-45f1-84ea-bf6a1f70d163" name="Changes" comment="add quarto snack">
+    <list default="true" id="9e584ca8-354d-45f1-84ea-bf6a1f70d163" name="Changes" comment="add quinto snack">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +41,7 @@
     "Application.Snack_3.executor": "Run",
     "Application.Snack_4.executor": "Run",
     "Application.Snack_5.executor": "Run",
+    "Application.Snack_6.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -95,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711636158440</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add quinto snack">
+      <option name="closed" value="true" />
+      <created>1711637858130</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711637858130</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -103,6 +112,7 @@
     <MESSAGE value="add secondo snack" />
     <MESSAGE value="add terzo snack" />
     <MESSAGE value="add quarto snack" />
-    <option name="LAST_COMMIT_MESSAGE" value="add quarto snack" />
+    <MESSAGE value="add quinto snack" />
+    <option name="LAST_COMMIT_MESSAGE" value="add quinto snack" />
   </component>
 </project>
