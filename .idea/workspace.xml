@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e584ca8-354d-45f1-84ea-bf6a1f70d163" name="Changes" comment="">
+    <list default="true" id="9e584ca8-354d-45f1-84ea-bf6a1f70d163" name="Changes" comment="add primo snack">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/exercise/snack_1/Snack_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/exercise/snack_1/Snack_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +27,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2eJmxQ6utFUlrC2rVOUYfnljlzF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
@@ -35,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Snack_1.executor": "Run",
+    "Application.Snack_2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -57,6 +61,19 @@
       <option name="presentableId" value="Default" />
       <updated>1711631303377</updated>
     </task>
+    <task id="LOCAL-00001" summary="add primo snack">
+      <option name="closed" value="true" />
+      <created>1711632987757</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711632987757</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add primo snack" />
+    <option name="LAST_COMMIT_MESSAGE" value="add primo snack" />
   </component>
 </project>

@@ -3,7 +3,8 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Snack_1 {
-
+//Chiedi all’utente di continuare ad inserire un numero pari compreso tra 10 e 20.
+//Se il numero non corrisponde alla richiesta continuare a chiederlo fino a che non viene inserito un numero valido.
     public static void main(String[] args) {
         int[] numeri = {};
 
