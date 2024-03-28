@@ -6,12 +6,11 @@ public class Snack_1 {
 //Chiedi all’utente di continuare ad inserire un numero pari compreso tra 10 e 20.
 //Se il numero non corrisponde alla richiesta continuare a chiederlo fino a che non viene inserito un numero valido.
     public static void main(String[] args) {
-        int[] numeri = {};
+        int[] numeri = new int[11];
 
-        //faccio creare ad un ciclo for gli elementi del mio array
-        for (int i = 10; i <= 20; i++) {
-            numeri = Arrays.copyOf(numeri, numeri.length + 1);
-            numeri[numeri.length - 1] = i;
+        // Riempimento dell'array con valori da 10 a 20
+        for (int i = 0; i < numeri.length; i++) {
+            numeri[i] = i + 10;
         }
         System.out.println("Array numeri: " + Arrays.toString(numeri));
 

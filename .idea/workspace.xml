@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e584ca8-354d-45f1-84ea-bf6a1f70d163" name="Changes" comment="add sesto snack">
-      <change beforePath="$PROJECT_DIR$/src/org/exercise/snack_6_bonus/Snack_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/exercise/snack_6_bonus/Snack_6.java" afterDir="false" />
+    <list default="true" id="9e584ca8-354d-45f1-84ea-bf6a1f70d163" name="Changes" comment="add control sesto snack">
+      <change beforePath="$PROJECT_DIR$/src/org/exercise/snack_1/Snack_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/exercise/snack_1/Snack_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711640654834</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add control sesto snack">
+      <option name="closed" value="true" />
+      <created>1711640912926</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711640912926</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -122,6 +130,7 @@
     <MESSAGE value="add quarto snack" />
     <MESSAGE value="add quinto snack" />
     <MESSAGE value="add sesto snack" />
-    <option name="LAST_COMMIT_MESSAGE" value="add sesto snack" />
+    <MESSAGE value="add control sesto snack" />
+    <option name="LAST_COMMIT_MESSAGE" value="add control sesto snack" />
   </component>
 </project>
