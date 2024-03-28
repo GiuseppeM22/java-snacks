@@ -29,7 +29,11 @@ public class Snack_6 {
 
         String tempoFormattato = String.format("%02d:%02d:%02d", ore, minuti, secondi);
 
-        System.out.println(tempoFormattato);
+        if(secondi > 0 || minuti > 0 || ore > 0){
+            System.out.println(tempoFormattato);
+
+        }
+
 
     }
 }

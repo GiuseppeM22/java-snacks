@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e584ca8-354d-45f1-84ea-bf6a1f70d163" name="Changes" comment="add quinto snack">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9e584ca8-354d-45f1-84ea-bf6a1f70d163" name="Changes" comment="add sesto snack">
+      <change beforePath="$PROJECT_DIR$/src/org/exercise/snack_6_bonus/Snack_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/exercise/snack_6_bonus/Snack_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711637858130</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add sesto snack">
+      <option name="closed" value="true" />
+      <created>1711640654834</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711640654834</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -113,6 +121,7 @@
     <MESSAGE value="add terzo snack" />
     <MESSAGE value="add quarto snack" />
     <MESSAGE value="add quinto snack" />
-    <option name="LAST_COMMIT_MESSAGE" value="add quinto snack" />
+    <MESSAGE value="add sesto snack" />
+    <option name="LAST_COMMIT_MESSAGE" value="add sesto snack" />
   </component>
 </project>
